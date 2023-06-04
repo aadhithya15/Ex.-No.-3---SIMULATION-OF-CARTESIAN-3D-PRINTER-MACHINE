@@ -57,6 +57,8 @@
 
 
 
+## OUTPUT
+![image](https://github.com/aadhithya15/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/121165812/22448f17-7339-4e53-be46-426ca04f7787)
 
 ### Name: Aadhithya M
 ### Register Number: 212222100001
